@@ -1,0 +1,5 @@
+[
+    {"title": "First Post", "content": "This is my first blog post using JSON data!"},
+    {"title": "Express.js is Cool", "content": "Learning how to create routes and serve files is fun."},
+    {"title": "Dynamic Content", "content": "This content is being fetched using JavaScript from a JSON file."}
+]
